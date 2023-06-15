@@ -1,0 +1,50 @@
+.seccion-uno{
+    position: relative;
+    width: 100%;
+    max-height: 85vh;
+    min-height: 540px;
+    display: flex;
+    margin-bottom: 100px;
+}
+.izquierda{
+    width: 30%;
+    background-color: white;
+    z-index: 1;
+}
+.izquierda h1{
+    margin-top: 50px;
+    letter-spacing: 2px;
+    font-size: 35px;
+    line-height: 45px;
+}
+.izquierda p{
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    line-height: 26px;
+}
+.izquierda select{
+  width: 95%;
+  padding: 18px;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+.izquierda button{
+    width: 95%;
+    padding: 18px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    background-color: #3d57ff;
+    color: white;
+    border: none;
+}
+
+.derecha{
+    position: absolute;
+    right: 0;
+    width: 80%;
+    height: 100%;
+    background-color: brown;
+}

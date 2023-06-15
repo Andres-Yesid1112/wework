@@ -1,0 +1,45 @@
+.menu{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 75px;
+    z-index: 5;
+    background-color: white;
+}
+.izquierda{
+    display: flex;
+}
+.izquierda h3{
+    padding-left: 60px;
+    padding-right: 40px;
+    margin-top: 20px;
+    font-size: 28px;
+    font-family: none;
+    font-weight: 900;
+}
+.izquierda p{
+    padding-right: 20px;
+    margin-top: 34px;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.derecha{
+    display: flex;
+    float: right;
+    padding-right: 110px;
+}
+.derecha p{
+    font-size: 15px;
+    margin: -50px;
+    letter-spacing: 1px;
+}
+.contacto{
+    color: #0563ce;
+    position: absolute;
+    right: 380px;
+    padding: 10px 15px;
+    border: 1px solid #0563ce;
+    border-radius: 5px;
+    top: 70px;
+    font-weight: 600;
+}

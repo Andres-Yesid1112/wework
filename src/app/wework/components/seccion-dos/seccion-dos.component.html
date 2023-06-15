@@ -1,0 +1,10 @@
+<div class="seccion-dos">
+    <h2>¿Qué estás buscando?</h2>
+    <h4>Ver todas las soluciones</h4>
+    
+    <div class="contenidoo">
+        <div *ngFor="let contenido of contenidos">
+            <app-contenido [contenido]="contenido"></app-contenido>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,58 @@
+.foother{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(241, 241, 241);
+    position: relative;
+}
+.superior{
+    display: flex;
+}
+.superior{
+    margin-left: 60px;
+    padding-top: 40px;
+}
+.superior div{
+    margin-right: 30px;
+}
+.superior div p{
+    padding: 0;
+    margin: 10px;
+    width: 160px;
+    line-height: 25px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    
+}
+.titulo{
+    color: #666;
+}
+
+select{
+    position: absolute;
+    top: 60px;
+    right: 100px;
+    width: 250px;
+    padding: 17px;
+    border: 1px solid blue;
+    color: blue;
+    border-radius: 5px;
+}
+
+.izquierda{
+    width: 20%;
+    height: 100px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.inferior p{
+    letter-spacing: 1px;
+    font-size: 15px;
+    color: blue;
+    padding-right: 10px;
+}
+.derecha{
+    display: flex;
+    position: absolute;
+    bottom: 150px;
+    right: 150px;
+}

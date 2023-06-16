@@ -1,0 +1,25 @@
+.seccion-nueve{
+    display: flex;
+    margin-bottom: 90px;
+}
+.noticia{
+    width: 27%;
+    height: 430px;
+    padding-right: 9%;
+    position: relative;
+}
+img{
+    width: 128%;
+    border-radius: 8px;
+}
+h1{
+    width: 127%;
+    font-size: 19px;
+    margin-top: 15px;
+}
+p{
+    width: 127%;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 26px;
+}

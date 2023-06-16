@@ -1,7 +1,32 @@
 .contenido{
     margin-top: 75px;
     position: relative;
-    left: 4%;
-    width: 92%;
-
+    left: 4.5%;
+    width: 91%;
+}
+.feedback{
+    writing-mode: vertical-lr;
+    position: fixed;
+    font-size: 14px;
+    right: -15px;
+    top: 150px;
+    z-index: 6;
+    background-attachment: fixed;
+    color: rgb(0, 55, 255);
+    letter-spacing: 1px;
+    padding: 28px 10px;
+    background-color: rgba(0, 47, 255, 0.07);
+}
+img{
+    width: 60px;
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+    border-radius: 50%;
+}
+.line{
+    margin-top: -70px;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 30px;
 }

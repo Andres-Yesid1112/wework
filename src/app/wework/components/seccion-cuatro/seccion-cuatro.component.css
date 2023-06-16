@@ -1,0 +1,51 @@
+.seccion-cuatro{
+    width: 100%;
+    height: 100px;
+    position: relative;
+}
+.izquierda{
+    width: 62%;
+}
+img{
+    position: absolute;
+    right: 8%;
+    top: 0;
+    width: 30%;
+    border-radius: 5px;
+    box-shadow: 22px 20px 20px rgba(77, 77, 77, 0.2);
+}
+h1{
+    letter-spacing: 1px;
+    font-size: 30px;
+    line-height: 45px;
+    padding-left: 100px;
+    padding: 120px 100px 0 100px;
+}
+p{
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 0px 100px 0 100px;
+    line-height: 26px;
+}
+.mas-inf{
+    color: blue;
+    padding-top: 0;
+}
+.subtitulos{
+    display: flex;
+    padding: 20px 90px 0 100px;
+    position: relative;
+    margin-top: -30px;
+}
+.subtitulos p{
+    text-align: center;
+    width: 50%;
+    color: blue;
+    padding: 15px 0; 
+    font-size: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.subtitulos p:nth-child(1){
+    border-bottom: 1px solid #0400ff;
+}

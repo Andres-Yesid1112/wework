@@ -1,7 +1,7 @@
 .contenido{
-    width: 290px;
+    width: 94%;
     height: 170px;
-    border: 1px solid #ccc;
+    border: 1px solid #ddd;
     border-radius: 5px;
     margin: 0px 25px 0 0;
     display: flex;
@@ -9,7 +9,7 @@
 .contenido img{
     width: 100px;
     height: 100px;
-    margin: 20px;
+    margin: 19px 15px;
 }
 .contenido .titulo{
     letter-spacing: 1px;
@@ -17,7 +17,7 @@
     margin-bottom: -5px;
 }
 .contenido .texto{
-    padding-right: 15px;
+    padding-right: 14px;
     font-size: 10px;
     letter-spacing: 1px;
     line-height: 15px;

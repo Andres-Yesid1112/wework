@@ -1,0 +1,70 @@
+.seccion-cinco{
+    margin-top: 520px;
+    position: relative;
+    margin-bottom: 150px;
+}
+img{
+    top: 0;
+    left: 0;
+    width: 100%;
+    border-radius: 8px;
+}
+.contenido{
+    position: absolute;
+    height: 90%;
+    width: 66%;
+    left: 17%;
+    bottom: 4px;
+    background-color: white;
+    z-index: 1;
+    border-radius: 5px 5px 0 0;
+}
+h1{
+    letter-spacing: 1px;
+    font-size: 30px;
+    line-height: 45px;
+    padding-left: 100px;
+    padding: 50px 100px 0 60px;
+}
+p{
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 0px 60px 10px 60px;
+    line-height: 26px;
+}
+.inputs{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin-left: 60px;
+}
+input{
+    width: 41%;
+    padding: 18px;
+    margin: 0 20px 25px 0;
+    border-radius: 5px;
+    border: 1px solid #666;
+}
+select{
+    width: 46%;
+    padding: 18px;
+    margin: 0 20px 25px 0;
+    border-radius: 5px;
+    border: 1px solid #666;
+    color: #666;
+}
+
+.segundo-texto{
+    font-size: 14px;
+    margin-top: 0;
+}
+button{
+    margin-left: 60px;
+    padding: 17px 25px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 8px;
+}

@@ -1,0 +1,42 @@
+.seccion-tres{
+    width: 100%;
+    display: flex;
+    margin-bottom: 100px;
+}
+.derecha{
+    width: 53%;
+    float: right;
+    position: relative;
+}
+img{
+    width: 57%;
+    border-radius: 5px;
+}
+h1{
+    margin-top: 50px;
+    letter-spacing: 1px;
+    font-size: 30px;
+    line-height: 45px;
+    padding-left: 50px;
+}
+p{
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding-left: 50px;
+    margin-bottom: 20px;
+    line-height: 26px;
+}
+.precio{
+
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-left: 50px;
+    position: absolute;
+    padding: 2px 5px;
+    background-color: rgb(255, 198, 10);
+    border-radius: 5px;
+    top: 20px;
+}
+.mas-inf{
+    color: blue;
+}

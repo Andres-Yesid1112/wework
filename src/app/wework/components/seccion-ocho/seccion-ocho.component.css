@@ -1,0 +1,58 @@
+.seccion-ocho{
+    width: 100%;
+    display: flex;
+    margin-bottom: 100px;
+}
+.derecha{
+    width: 48%;
+    float: right;
+    position: relative;
+}
+img{
+    width: 52%;
+    border-radius: 5px;
+}
+.texto-uno{
+    position: absolute;
+    top: 65px;
+    font-size: 12px;
+}
+.ideas{
+    font-size: 13px;
+    padding: 0;
+}
+h2{
+    letter-spacing: 1px;
+    font-size: 30px;
+    line-height: 45px;
+    margin-top: -15px;
+}
+h1{
+    margin-top: 110px;
+    letter-spacing: 1px;
+    font-size: 30px;
+    line-height: 45px;
+    padding-left: 40px;
+}
+p{
+    font-size: 15px;
+    letter-spacing: 1px;
+    padding-left: 40px;
+    margin-bottom: 20px;
+    line-height: 26px;
+    padding-right: 20px;
+}
+.precio{
+
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-left: 50px;
+    position: absolute;
+    padding: 2px 5px;
+    background-color: rgb(255, 198, 10);
+    border-radius: 5px;
+    top: 20px;
+}
+.mas-inf{
+    color: blue;
+}
